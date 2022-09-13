@@ -3,9 +3,7 @@
 /**
  *main - Entry point
  *
- *Description: program that prints the alphabets
- *
- *Return: Always return (0)
+ *Return: Always return 0 (Success)
  */
 void print_alphabet(void)
 {
