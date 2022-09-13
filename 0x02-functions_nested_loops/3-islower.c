@@ -5,7 +5,7 @@
  *@c: contains value to be comapred
  *Return: Always 0.
  */
-int _islowr(int c)
+int _islower(int c)
 {
 	if (c > 'a' && c < 'z')
 	{
